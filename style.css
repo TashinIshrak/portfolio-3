@@ -1,0 +1,139 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+span{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+    color: white;
+    padding: 10px 40px;
+    background-color: orange;
+    border-radius: 10px;
+}
+.first{
+    display: flex;
+    padding: 5%;
+    background-image: url(image/ww-01-01-01.png);
+    background-repeat: no-repeat;
+}
+.first-text{
+    width: 40%;
+}
+.first-image{
+    width: 40%;
+}
+.first-image img{
+    width: 95%;
+    margin-left: 300px;
+}
+#header{
+    border-left: 5px solid orange;
+    padding-left: 5%;
+}
+.second{
+    display: flex;
+    padding: 5%;
+    background-image: url(image/111-01.png);
+}
+#ff{
+    text-align: center;
+}
+.second-first{
+    width: 33%;
+    padding: 50px 50px;
+    background-color: #fff6e4;
+    margin: 20px 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(190, 190, 190);
+}
+.second-second{
+    width: 33%;
+    padding: 50px 50px;
+    background-color: #fff6e4;
+    margin: 20px 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(190, 190, 190);
+}
+.second-third{
+    width: 33%;
+    padding: 50px 50px;
+    background-color: #fff6e4;
+    margin: 20px 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(190, 190, 190);
+}
+.second-first img{
+    width: 50%;
+}
+.second-second img{
+    width: 50%;
+}
+.second-third img{
+    width: 50%;
+}
+p{
+    text-align: justify;
+}
+.third{
+    display: flex;
+    padding: 5%;
+    background-image: url(image/333-01.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.third-image{
+    width: 30%;
+}
+.third-text{
+    width: 50%;
+    margin-left: 100px;
+}
+.third-image img{
+    width: 100%;
+}
+#i{
+    color: orange;
+    font-size: 30px;
+    font-weight: 900;
+}
+#dd{
+    color: orange;
+}
+#gg{
+    color: orange;
+    text-align: center;
+}
+.fourth{
+    display: flex;
+    padding: 5%;
+    background-image: url(image/222-01.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.fourth-image{
+    width: 30%;
+    margin-left: 200px;
+}
+.fourth-text{
+    width: 50%;
+}
+.fourth-image img{
+    width: 100%;
+}
+footer{
+    display: block;
+    background-color: orange;
+    padding: 2%;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
